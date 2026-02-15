@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+inquirer.com,newsday.com,0.06688970185151377
+inquirer.com,seattletimes.com,0.07134806992419374
+abcnews.go.com,inquirer.com,0.08895541491449721
+orlandosentinel.com,twincities.com,0.10971845645140299
+newsday.com,seattletimes.com,0.12096421895250042
+latimes.com,seattletimes.com,0.12537222407563853
+sandiegouniontribune.com,twincities.com,0.13503150079712756
+orlandosentinel.com,sandiegouniontribune.com,0.13548400490681423
+newsday.com,twincities.com,0.13826294662602723
+abcnews.go.com,seattletimes.com,0.14120123953943498

@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+ocregister.com,twincities.com,0.013278682469229142
+sun-sentinel.com,twincities.com,0.015670317763196495
+pilotonline.com,twincities.com,0.0166260839947332
+orlandosentinel.com,sun-sentinel.com,0.019431691065769363
+courant.com,twincities.com,0.0201169108278223
+newsday.com,ocregister.com,0.022470586195035613
+sandiegouniontribune.com,twincities.com,0.02610151188147969
+ocregister.com,sun-sentinel.com,0.027015750362479052
+courant.com,ocregister.com,0.028805499831173087
+ocregister.com,pilotonline.com,0.034282507995788136

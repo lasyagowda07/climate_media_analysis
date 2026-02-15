@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+benzinga.com,forbes.com,0.4153584226770547
+benzinga.com,newsday.com,0.4106533630820616
+abcnews.go.com,dailycaller.com,0.40983005363802694
+benzinga.com,grist.org,0.4031725993210986
+benzinga.com,orlandosentinel.com,0.4020314932031521
+benzinga.com,dailycaller.com,0.3989681681648587
+benzinga.com,latimes.com,0.39840128458917323
+benzinga.com,inquirer.com,0.3971467263406705
+abcnews.go.com,benzinga.com,0.3921558181363184
+gizmodo.com,grist.org,0.39058137507086166

@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+benzinga.com,cbsnews.com,0.8487263161988428
+cbsnews.com,reuters.com,0.7627139228954931
+cbsnews.com,theconversation.com,0.755795907944991
+cbsnews.com,theguardian.com,0.754236749088045
+cbsnews.com,latimes.com,0.7241354515062595
+benzinga.com,latimes.com,0.6132711325995053
+benzinga.com,theconversation.com,0.5879512090673611
+latimes.com,reuters.com,0.5309394700729827
+benzinga.com,theguardian.com,0.5093788763074245
+reuters.com,theconversation.com,0.508615809279046

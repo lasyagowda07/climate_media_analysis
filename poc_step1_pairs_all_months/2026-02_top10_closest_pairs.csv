@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+latimes.com,theconversation.com,0.20620896225461505
+latimes.com,theguardian.com,0.3939177347497711
+benzinga.com,reuters.com,0.40233742380229753
+theconversation.com,theguardian.com,0.4612292846001501
+reuters.com,theguardian.com,0.508003397360868
+reuters.com,theconversation.com,0.508615809279046
+benzinga.com,theguardian.com,0.5093788763074245
+latimes.com,reuters.com,0.5309394700729827
+benzinga.com,theconversation.com,0.5879512090673611
+benzinga.com,latimes.com,0.6132711325995053

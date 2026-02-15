@@ -1,0 +1,7 @@
+outlet_1,outlet_2,cosine_distance
+benzinga.com,latimes.com,0.6881829455280315
+benzinga.com,theconversation.com,0.6071429506454
+benzinga.com,reuters.com,0.5166397444560429
+latimes.com,reuters.com,0.45842979109534243
+reuters.com,theconversation.com,0.4168451165434287
+latimes.com,theconversation.com,0.233224289798041

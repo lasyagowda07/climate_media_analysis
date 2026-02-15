@@ -1,0 +1,11 @@
+outlet_1,outlet_2,cosine_distance
+livescience.com,mlive.com,0.843560234971596
+chicagotribune.com,fortune.com,0.8020218238077863
+cbsnews.com,livescience.com,0.8019949243800635
+cbsnews.com,mlive.com,0.8007521246028291
+foxnews.com,livescience.com,0.7770649742927265
+livescience.com,nbcnews.com,0.7710782288755349
+abcnews.go.com,livescience.com,0.7496211758459035
+livescience.com,npr.org,0.7384125011581908
+fortune.com,livescience.com,0.736056139407963
+benzinga.com,mlive.com,0.7315412166516169
