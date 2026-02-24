@@ -13,4 +13,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # secrets (if any)
-.env
+.env.venv/
+__pycache__/
+*.csv
+data_raw/mediacloud_exports/
+data_raw/mediacloud_exports/**
+.ipynb_checkpoints/
